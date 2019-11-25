@@ -4,11 +4,11 @@
 *.png
 *.jpg
 *.jpeg
-Player0
-Player1
-Player2
-Player3
-teams
+Player0/
+Player1/
+Player2/
+Player3/
+teams/
 __pycache__/
 .vscode/
 venv/
