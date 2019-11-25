@@ -5,6 +5,8 @@ A simple script that fetches user info and divides it up into separate `.txt` fi
 
 This script was made for the **o!NT 2019** osu! tournament. This means that it was specifically made for 2v2 tournaments however it can easily be adapted to support other tournament formats.
 
+⚠️**This script makes 12 API requests & 2 scrapes 2 images in the matter of a seconds. Do not use this script excessively**⚠️
+
 <br>
 
 ![Script in use - GIF](https://i.imgur.com/sHzTKJp.gif)
