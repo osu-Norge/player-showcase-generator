@@ -36,7 +36,7 @@ This script was made for the **o!NT 2019** osu! tournament. This means that it w
 
 <br>
 
-* Run the [showcase_generator.py](showcase_generator.py) file
+* Run the [showcase_generator.py](showcase_generator.py) file:
   ```
   python showcase_generator.py
   ```
