@@ -1,0 +1,6 @@
+*.yaml
+*.pyc
+__pycache__/
+.vscode/
+venv/
+.idea/
