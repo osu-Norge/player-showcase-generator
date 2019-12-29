@@ -2,7 +2,7 @@
 Spaghetti code, but hey it works!
 
 WARNING:
-This script makes 12 API requests & scrapes 2 images in the matter of a few seconds. 
+This script makes 12 API requests & scrapes 8 images in the matter of a few seconds. 
 Please do not run this script excessively.
 """
 
