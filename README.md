@@ -1,6 +1,6 @@
 <h1>player-showcase-generator</h1>
 
-A simple script that fetches info about a set of osu! users and puts it into separate `.txt` files. This is to aid the process of  automating the making of team/player showcases in [OBS](https://github.com/obsproject/obs-studio).
+A simple script that fetches info about a set of osu! users and puts it into separate `.txt` files. This is to aid the process of  automating the creation of team/player showcases in [OBS](https://github.com/obsproject/obs-studio).
 
 
 This script was made specifically for the **o!NT 2019** osu! tournament. This means that it is written to support 2v2 tournaments. It can however be easily adapted to support other tournament formats if you have the know-how.
@@ -30,7 +30,7 @@ This script was made specifically for the **o!NT 2019** osu! tournament. This me
 
 <br>
 
-* Rename the [config.yaml.example](config.yaml.example) file to `config.yaml` and insert/replace all the values listed in the file with your own.
+* Rename the [config.yaml.example](config.yaml.example) file to `config.yaml` and insert/replace all the values listed within it with your own.
     
     **Note**:
     * `Team1` consists of `Player0` & `Player1`. 
@@ -38,7 +38,7 @@ This script was made specifically for the **o!NT 2019** osu! tournament. This me
 
 <br>
 
-* Run the [showcase_generator.py](showcase_generator.py) file:
+* Run [showcase_generator.py](showcase_generator.py):
   ```
   python showcase_generator.py
   ```
