@@ -1,6 +1,6 @@
 <h1>player-showcase-generator</h1>
 
-A simple script that fetches info about a set of osu! users and puts it into separate `.txt` files. This is to aid the process of  automating the creation of team/player showcases in [OBS](https://github.com/obsproject/obs-studio).
+A simple script that fetches info about a set of osu! users and puts it into separate `.txt` files. The script aids the process of automating creation of team/player showcases in [OBS](https://github.com/obsproject/obs-studio).
 
 
 This script was made specifically for the **o!NT 2019** osu! tournament. This means that it is written to support 2v2 tournaments. It can however be easily adapted to support other tournament formats if you have the know-how.
