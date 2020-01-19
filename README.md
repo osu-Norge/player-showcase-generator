@@ -1,9 +1,9 @@
 <h1>player-showcase-generator</h1>
 
-A simple script that fetches user info and divides it up into separate `.txt` files. This helps automating the proscess of making player/team showcases in [OBS](https://github.com/obsproject/obs-studio)
+A simple script that fetches info about a set of osu! users and puts it into separate `.txt` files. This is to aid the process of  automating the making of team/player showcases in [OBS](https://github.com/obsproject/obs-studio).
 
 
-This script was made for the **o!NT 2019** osu! tournament. This means that it was specifically made for 2v2 tournaments however it can easily be adapted to support other tournament formats.
+This script was made specifically for the **o!NT 2019** osu! tournament. This means that it is written to support 2v2 tournaments. It can however be easily adapted to support other tournament formats if you have the know-how.
 
 ⚠️**This script makes 12 API requests & scrapes 8 images in the matter of a few seconds. Please do not run this script excessively**⚠️
 
@@ -17,7 +17,7 @@ This script was made for the **o!NT 2019** osu! tournament. This means that it w
 
 <h3>Prerequisites</h2>
 
-* [Python](https://github.com/python/cpython) 3.6 or newer
+* [Python](https://github.com/python/cpython) 3.6+
 
 <h3>Installing & Running</h3>
 
