@@ -47,7 +47,7 @@ This script was made specifically for the **o!NT 2019** osu! tournament. This me
 
 <h2 align="center">License</h2>
 
-MIT - Please read [LICENSE.md](LICENSE.md) for details.
+MIT - Please read [LICENSE](LICENSE) for details.
 
 ##
 <div align="center">
