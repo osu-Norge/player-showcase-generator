@@ -9,7 +9,7 @@ This script was made specifically for the **o!NT 2019** osu! tournament. This me
 
 <br>
 
-![Script in use - GIF](https://i.imgur.com/sHzTKJp.gif)
+![Script in use - GIF](https://i.imgur.com/ByQtA5O.gif)
 
 <br>
 
